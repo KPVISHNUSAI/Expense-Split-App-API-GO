@@ -1,0 +1,11 @@
+###
+POST http://localhost:9000/api/signup
+Content-Type: application/json
+
+{
+  "name": "KPSAI",
+  "email": "kk4563@srmist.edu.in",
+  "password": "vishnu"
+}
+
+###
